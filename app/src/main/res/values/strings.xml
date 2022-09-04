@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tugas BMI 2</string>
+    <string name="judul_utama">Kalkulator BMI</string>
+    <string name="umur">Umur</string>
+    <string name="tinggi_badan">Tinggi Badan</string>
+    <string name="berat_badan">Berat Badan</string>
+    <string name="tahun">tahun</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="reset">Reset</string>
+    <string name="metode_hitung">Metode Hitung</string>
+    <string name="intent">Intent</string>
+    <string name="bundle">Bundle</string>
+    <string name="parcelable">Parcelable</string>
+    <string name="serializable">Serializable</string>
+    <string name="hasil">Hasil</string>
+    <string name="umur_anda">Umur Anda</string>
+    <string name="bmi_anda">BMI Anda</string>
+    <string name="kategori">Kategori</string>
+</resources>
