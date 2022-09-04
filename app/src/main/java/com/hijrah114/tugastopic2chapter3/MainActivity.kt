@@ -21,7 +21,9 @@ class MainActivity : AppCompatActivity() {
         val btnSerializable = findViewById<Button>(R.id.buttonSerializable)
 
         btnReset.setOnClickListener {
-
+            edtUmur.setText("")
+            edtTinggiBadan.setText("")
+            edtBeratBadan.setText("")
         }
 
         btnIntent.setOnClickListener {
