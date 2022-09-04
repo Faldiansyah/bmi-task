@@ -3,7 +3,6 @@ package com.hijrah114.tugastopic2chapter3
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
-import org.w3c.dom.Text
 
 class HasilActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

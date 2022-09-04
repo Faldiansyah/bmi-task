@@ -39,5 +39,9 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
+        btnParcelable.setOnClickListener {
+
+        }
+
     }
 }
